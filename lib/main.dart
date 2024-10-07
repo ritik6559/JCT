@@ -5,6 +5,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 import 'package:jct/screens/splash_screen.dart';
 import 'package:jct/screens/splash_screenn.dart';
+import 'package:jct/screens/user/login/signin_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

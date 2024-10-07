@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:jct/models/complaint_item.dart';
-import 'package:jct/widgets/user_multiple_image.dart';
+import 'package:jct/common/widgets/user_multiple_image.dart';
 import 'package:http/http.dart' as http;
 
 class RaiseComplaint extends StatefulWidget {

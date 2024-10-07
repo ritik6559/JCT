@@ -8,7 +8,7 @@ import 'package:jct/screens/staff/reopen_request.dart';
 import 'package:http/http.dart' as http;
 import 'package:jct/screens/user/usefull/detailed_complaint.dart';
 
-import 'package:jct/widgets/staff_drawer.dart';
+import 'package:jct/common/widgets/staff_drawer.dart';
 
 class ComplaintsScreen extends StatefulWidget {
   const ComplaintsScreen({super.key});

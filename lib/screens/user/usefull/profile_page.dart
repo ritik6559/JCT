@@ -3,7 +3,7 @@ import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:jct/screens/welcome_screen.dart';
-import 'package:jct/widgets/user_image_picker.dart';
+import 'package:jct/common/widgets/user_image_picker.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});

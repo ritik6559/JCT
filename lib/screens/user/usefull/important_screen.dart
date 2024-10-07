@@ -6,8 +6,8 @@ import 'package:jct/screens/user/usefull/profile_page.dart';
 import 'package:jct/screens/user/usefull/raise_complaint.dart';
 import 'package:jct/screens/user/usefull/reopen_complaints.dart';
 import 'package:jct/screens/user/usefull/user_complaints.dart';
-import 'package:jct/widgets/grid_item.dart';
-import 'package:jct/widgets/user_drawer.dart';
+import 'package:jct/common/widgets/grid_item.dart';
+import 'package:jct/common/widgets/user_drawer.dart';
 
 class ImportantScreen extends StatefulWidget {
   const ImportantScreen({super.key});
